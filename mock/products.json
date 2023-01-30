@@ -1,0 +1,50 @@
+[
+  {
+    "id": 25606700299,
+    "title": "Кроссовки женские Nike Air Zoom Pegasus 37",
+    "price": 109.95,
+    "description": "Кроссовки Nike Air Zoom Pegasus 37 помогут открыть второе дыхание, даже если силы на исходе. Классическая удобная посадка в сочетании с мгновенной амортизацией — идеальный выбор для ежедневных пробежек",
+    "category": "female",
+    "image": "/assets/productCard/id_1/1.jpg",
+    "rating": { "rate": 3.9, "count": 120 },
+    "article": "4A8BCABDW2",
+    "amortization": "Пеноматериал Nike React и вставка Air Zoom в передней части стопы для мгновенной амортизации.",
+    "color": ["black", "white"]
+  },
+  {
+    "id": 25606700239,
+    "title": "Кроссовки женские Nike Downshifter 11",
+    "price": 75.95,
+    "description": "Легкие и гибкие кроссовки Nike Downshifter 11 — универсальный выбор для бега. Модель обеспечивает комфорт и поддержку на протяжении всей дистанции.",
+    "category": "female",
+    "image": "/assets/productCard/id_2/1.jpg",
+    "rating": { "rate": 3.9, "count": 120 },
+    "article": "H0EPNIIOHW",
+    "amortization": "Подошва из пеноматериала гасит ударные нагрузки.",
+    "color": ["black", "white", "gray"]
+  },
+  {
+    "id": 25376700239,
+    "title": "Кроссовки женские Nike Air Max 270",
+    "price": 80.95,
+    "description": "Легкие и гибкие кроссовки Nike Downshifter 11 — универсальный выбор для бега. Модель обеспечивает комфорт и поддержку на протяжении всей дистанции.",
+    "category": "female",
+    "image": "/assets/productCard/id_3/1.jpg",
+    "rating": { "rate": 3.9, "count": 120 },
+    "article": "K4W3KEPI5E",
+    "amortization": "Кроссовки Nike Air Max 270 выполнены в стиле оригинальной модели Air Max 180 1991 года. Розовая воздушная подушка обеспечивает комфорт и добавляет в дизайн ярких красок.",
+    "color": ["pink", "white", "black"]
+  },
+  {
+    "id": 25606800239,
+    "title": "Кроссовки мужские Nike Crater Remixa",
+    "price": 70.95,
+    "description": "Кроссовки Nike Crater Remixa — это идеальное сочетание спортивной эстетики и современных технологий.",
+    "category": "men's",
+    "image": "/assets/productCard/id_4/1.jpg",
+    "rating": { "rate": 3.9, "count": 120 },
+    "article": " IY1ADZR3WA",
+    "amortization": "Толстая подошва из супермягкого пеноматериала Crater для превосходной амортизации и гибкости.",
+    "color": ["white", "black"]
+  }
+]
